@@ -1,7 +1,7 @@
 body {
-    background-color: aqua;
+    background-color: rgb(235, 245, 222)
 }
 
-.page {
-    background-color: green;
+.form-text {
+    color: darkslategray
 }
